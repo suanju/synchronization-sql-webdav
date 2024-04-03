@@ -1,0 +1,17 @@
+server:
+    backup_folder: 数据库备份
+    server_name:
+    project_name:
+    backup_interval: 300
+    max_backup_data: 200
+    save_local: true
+webdav:
+    webdav_address: http://60.174.144.61:44556
+    username:
+    password:
+database:
+    host: 127.0.0.1
+    port: 3306
+    database_name:
+    username:
+    password:
